@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beginner-kotlin/beginner-kotlin.iml" filepath="$PROJECT_DIR$/beginner-kotlin/beginner-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kappa.iml" filepath="$PROJECT_DIR$/kappa.iml" />
+    </modules>
+  </component>
+</project>
